@@ -1,6 +1,6 @@
-Imported Sales Data from Kaggle
-Created dimensions tables using DAX: Date Table, Customer Table & Categories Table
-Connected the dim tables to the sales fact table using 1:* relationships
+Imported Sales Data from Kaggle.
+Created dimensions tables using DAX: Date Table, Customer Table & Categories Table.
+Connected the dim tables to the sales fact table using 1:* relationships.
 Build a sales report that could be filtered by the dimension tables.
 From the report we could conclude the following:
 1. May 2023 was our best sales month.
